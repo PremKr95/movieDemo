@@ -13,10 +13,13 @@ yarn
 ```
 
 **To run android app :**
-react-native run-android
+: yarn
+: react-native run-android
 
 **To run iOS app :**
-react-native run-ios
+: yarn
+: cd ios && pod install
+: react-native run-ios
 
 The intention is to provide a basic, but comprehensive, skeleton for React projects. The tools included are:
 
