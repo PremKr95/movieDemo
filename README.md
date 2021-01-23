@@ -7,8 +7,8 @@ To begin using yarn, install globally with `npm install -g yarn`.
 Then simply clone the repository and install using the `yarn` command.
 
 ```
-git clone git@github.com:xebiaww/yesgeniemobile.git
-cd yesgeniemobile
+git clone https://github.com/PremKr95/movieDemo
+cd movieDemo
 yarn
 ```
 
